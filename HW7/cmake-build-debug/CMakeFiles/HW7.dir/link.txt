@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW7.dir/yr975_hw7_q4.cpp.o CMakeFiles/HW7.dir/yr975_hw7_q5.cpp.o  -o HW7 

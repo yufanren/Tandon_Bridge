@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hw8.dir/yr975_hw8_q4.cpp.o  -o hw8 

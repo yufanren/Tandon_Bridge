@@ -1,0 +1,3 @@
+/home/yufanren/CLionProjects/HW6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yufanren/CLionProjects/HW6/cmake-build-debug/CMakeFiles/HW6.dir
+/home/yufanren/CLionProjects/HW6/cmake-build-debug/CMakeFiles/edit_cache.dir

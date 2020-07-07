@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yufanren/CLionProjects/HW4/yr975_hw4_q8.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+

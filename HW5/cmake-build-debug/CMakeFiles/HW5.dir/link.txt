@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW5.dir/yr975_hw5_q6.cpp.o  -o HW5 

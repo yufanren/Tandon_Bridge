@@ -1,0 +1,3 @@
+/home/yufanren/CLionProjects/hw8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/yufanren/CLionProjects/hw8/cmake-build-debug/CMakeFiles/hw8.dir
+/home/yufanren/CLionProjects/hw8/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="HW7" targetName="HW" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c57a2b9-3c8c-404b-be56-6a0f0dfaca16" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Y7prTGYdJSz9KfcqJaMG2lgdTt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HW" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HW7" TARGET_NAME="HW" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HW7" RUN_TARGET_NAME="HW">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c57a2b9-3c8c-404b-be56-6a0f0dfaca16" name="Default Changelist" comment="" />
+      <created>1582303685104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582303685104</updated>
+      <workItem from="1582303686522" duration="10195000" />
+      <workItem from="1582325154140" duration="4492000" />
+      <workItem from="1582340150049" duration="7275000" />
+      <workItem from="1582385738309" duration="4865000" />
+      <workItem from="1582390612324" duration="10229000" />
+      <workItem from="1582413283811" duration="2636000" />
+      <workItem from="1582429015628" duration="1883000" />
+      <workItem from="1582432410738" duration="2375000" />
+      <workItem from="1582485993019" duration="1195000" />
+      <workItem from="1582487256597" duration="7683000" />
+      <workItem from="1582502235834" duration="1611000" />
+      <workItem from="1582786403189" duration="372000" />
+      <workItem from="1582902690932" duration="95000" />
+      <workItem from="1583382214390" duration="1865000" />
+      <workItem from="1583470337380" duration="14000" />
+      <workItem from="1583552154247" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582340499201">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1582340499201" />
+    <state width="1807" height="275" key="GridCell.Tab.0.bottom" timestamp="1582786774369">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582507902041" />
+    <state width="1807" height="275" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582786774369" />
+    <state width="1807" height="275" key="GridCell.Tab.0.center" timestamp="1582786774369">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.center/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582507902041" />
+    <state width="1807" height="275" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582786774369" />
+    <state width="1807" height="275" key="GridCell.Tab.0.left" timestamp="1582786774368">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.left/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582507902041" />
+    <state width="1807" height="275" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582786774368" />
+    <state width="1807" height="275" key="GridCell.Tab.0.right" timestamp="1582786774369">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1874" height="284" key="GridCell.Tab.0.right/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582507902041" />
+    <state width="1807" height="275" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582786774369" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom" timestamp="1582488705842">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.bottom/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582403252484" />
+    <state width="1807" height="343" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1582488705842" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center" timestamp="1582488705841">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.center/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582403252484" />
+    <state width="1807" height="343" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1582488705841" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left" timestamp="1582488705841">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.left/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582403252484" />
+    <state width="1807" height="343" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1582488705841" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right" timestamp="1582488705841">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1634" height="342" key="GridCell.Tab.1.right/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582403252484" />
+    <state width="1807" height="343" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1582488705841" />
+    <state x="623" y="258" width="672" height="662" key="search.everywhere.popup" timestamp="1582488513428">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="623" y="237" width="672" height="678" key="search.everywhere.popup/0.1080.1920.1080/67.0.1853.1080@67.0.1853.1080" timestamp="1582391070712" />
+    <state x="623" y="258" width="672" height="662" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1582488513428" />
+  </component>
+</project>
